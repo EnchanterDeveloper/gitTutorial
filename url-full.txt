@@ -1,0 +1,164 @@
+https://aiindex.stanford.edu/report/
+2023 AI Index Report
+https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf
+Public Data 2023 for ai index report
+https://drive.google.com/drive/folders/1ma9WZJzKreS8f2It1rMy_KkkbX6XwDOK
+2023 State of AI in 14 Charts - Stanford HAI
+https://hai.stanford.edu/news/2023-state-ai-14-charts
+2022 AI Index Report
+https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf
+
+AI investment forecast to approach $200 billion globally by 2025
+https://www.goldmansachs.com/intelligence/pages/ai-investment-forecast-to-approach-200-billion-globally-by-2025.html
+
+Artificial Intelligence (AI) Market Size, Growth, Report By 2032
+https://www.precedenceresearch.com/artificial-intelligence-market
+
+Ranked_ Artificial Intelligence Startups, by Country
+https://www.visualcapitalist.com/sp/global-ai-investment/
+
+Total global AI investment 2015-2022 _ Statista
+https://www.statista.com/statistics/941137/ai-investment-and-funding-worldwide/
+
+Our World in Data
+Artificial Intelligence
+https://ourworldindata.org/artificial-intelligence
+
+Stack Overflow Annual Developer Survey
+https://survey.stackoverflow.co/2023
+https://survey.stackoverflow.co/2022
+https://survey.stackoverflow.co/2021
+https://survey.stackoverflow.co/2020
+
+What is Artificial Intelligence_ Types, History, and Future [2023 Edition] _ Simplilearn
+https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/what-is-artificial-intelligence
+What Is Computer Vision_ Applications, Benefits and How to Learn It
+https://www.simplilearn.com/computer-vision-article
+
+
+coursera
+specialization
+Deep Learning Specialization
+https://www.coursera.org/specializations/deep-learning#credits
+Applied Data Science Specialization
+https://www.coursera.org/specializations/applied-data-science
+Introduction to Data Science Specialization
+https://www.coursera.org/specializations/introduction-data-science
+Data Science Fundamentals with Python and SQL Specialization
+https://www.coursera.org/specializations/data-science-fundamentals-python-sql
+Machine Learning: Theory and Hands-on Practice with Python Specialization
+https://www.coursera.org/specializations/machine-learnin-theory-and-hands-on-practice-with-pythong-cu
+
+professional certificates
+IBM Data Analyst Professional Certificate
+https://www.coursera.org/professional-certificates/ibm-data-analyst
+Google Data Analytics Professional Certificate
+https://www.coursera.org/professional-certificates/google-data-analytics
+IBM Data Engineering Professional Certificate
+https://www.coursera.org/professional-certificates/ibm-data-engineer
+IBM Data Science Professional Certificate
+https://www.coursera.org/professional-certificates/ibm-data-science#courses
+IBM Full Stack Software Developer Professional Certificate
+https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer
+IBM Data Analytics with Excel and R Professional Certificate
+https://www.coursera.org/professional-certificates/ibm-data-analyst-r-excel#courses
+
+masterTrack
+Bachelor of Science (Honours) in Data Science & Artificial Intelligence
+https://www.coursera.org/degrees/bachelor-of-science-data-science-ai-iitguwahati
+Master of Engineering in Computer Engineering
+https://www.coursera.org/degrees/meng-computer-engineering-dartmouth
+
+graduate
+Graduate Diploma in Computer Science
+https://www.coursera.org/certificates/graduate-diploma-computer-science-london
+Data Science Graduate Certificate
+https://www.coursera.org/certificates/data-science-boulder
+
+computer science degrees
+https://www.coursera.org/degrees/computer-science/browse
+a computer science or IT certificates
+https://www.coursera.org/certificates/computer-science-it
+Data Science Degrees
+https://www.coursera.org/degrees/data-science
+Data Science certificates
+https://www.coursera.org/certificates/data-science
+
+
+
+professional certificates for company
+Meta Back-End Developer Professional Certificate
+https://www.coursera.org/professional-certificates/meta-back-end-developer#courses
+Meta Front-End Developer Professional Certificate
+https://www.coursera.org/professional-certificates/meta-front-end-developer
+Meta Database Engineer Professional Certificate
+https://www.coursera.org/professional-certificates/meta-database-engineer
+Meta AR Developer Professional Certificate
+https://www.coursera.org/professional-certificates/meta-ar-developer
+
+IBM IT Project Manager Professional Certificate
+https://www.coursera.org/professional-certificates/ibm-it-project-manager
+IBM Front-End Developer Professional Certificate
+https://www.coursera.org/professional-certificates/ibm-frontend-developer
+IBM DevOps and Software Engineering Professional Certificate
+https://www.coursera.org/professional-certificates/devops-and-software-engineering
+IBM Back-End Development Professional Certificate
+https://www.coursera.org/professional-certificates/ibm-backend-development
+IBM Full Stack Software Developer Professional Certificate
+https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer
+IBM IT Support Professional Certificate
+https://www.coursera.org/professional-certificates/ibm-technical-support
+IBM Mainframe Developer Professional Certificate
+https://www.coursera.org/professional-certificates/ibm-mainframe-developer
+IBM Applied DevOps Engineering Professional Certificate
+https://www.coursera.org/professional-certificates/ibm-applied-devops-engineering
+
+Google Cybersecurity Professional Certificate
+https://www.coursera.org/professional-certificates/google-cybersecurity
+Google IT Support Professional Certificate
+https://www.coursera.org/professional-certificates/google-it-support
+Google UX Design Professional Certificate
+https://www.coursera.org/professional-certificates/google-ux-design
+Google IT Automation with Python Professional Certificate
+https://www.coursera.org/professional-certificates/google-it-automation
+
+Microsoft Azure Developer Associate (AZ-204) Professional Certificate
+https://www.coursera.org/professional-certificates/azure-developer-associate
+Microsoft Azure Data Engineering Associate (DP-203) Professional Certificate
+https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering
+Microsoft Cybersecurity Analyst Professional Certificate
+https://www.coursera.org/professional-certificates/microsoft-cybersecurity-analyst
+AWS Cloud Technology Consultant Professional Certificate
+https://www.coursera.org/professional-certificates/aws-cloud-technology-consultant
+
+DeepLearning.AI TensorFlow Developer Professional Certificate
+https://www.coursera.org/professional-certificates/tensorflow-in-practice
+Meta Database Engineer Professional Certificate
+https://www.coursera.org/professional-certificates/meta-database-engineer
+Fractal Data Science Professional Certificate
+https://www.coursera.org/professional-certificates/fractal-data-science
+
+Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate
+https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate
+Google Professional Workspace Administrator Professional Certificate
+https://www.coursera.org/professional-certificates/g-suite-administration
+Preparing for Google Cloud Certification: Cloud DevOps Engineer Professional Certificate
+https://www.coursera.org/professional-certificates/sre-devops-engineer-google-cloud
+Preparing for Google Cloud Certification: Cloud Security Engineer Professional Certificate
+https://www.coursera.org/professional-certificates/google-cloud-security
+Preparing for Google Cloud Certification: Cloud Network Engineer Professional Certificate
+https://www.coursera.org/professional-certificates/google-cloud-networking
+Preparing for Google Cloud Certification: Cloud Architect Professional Certificate
+https://www.coursera.org/professional-certificates/gcp-cloud-architect
+Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate
+https://www.coursera.org/professional-certificates/cloud-engineering-gcp
+
+
+Big Data Specialization
+https://www.coursera.org/specializations/big-data?trk_ref=megamenu
+Introduction to Big Data
+https://www.coursera.org/learn/big-data-introduction
+
+NOMARL
+Introduction to Big Data with Spark and Hadoop
+https://www.coursera.org/learn/introduction-to-big-data-with-spark-hadoop
