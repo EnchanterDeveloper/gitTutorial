@@ -62,3 +62,5 @@ hi kris.
 i will be offline in 2 days. and i can't contact you directly because of some restriction, 
 need your valuable opinion about work, which techniques and skills are trend and how to train them.
 i will be full online about one month or 2 months later.
+https://github.com/EnchanterDeveloper/gitTutorial/issues/1
+you can send your feedback on this issue.
